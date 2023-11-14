@@ -18,3 +18,6 @@ let state = null
 // symbol => unique
 
 // object
+
+console.log(typeof null);
+console.log(typeof undefined);
